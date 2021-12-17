@@ -1,0 +1,15 @@
+{
+  "name": "login",
+  "version": "1.0.0",
+  "description": "WebApp for Login use nodejs and mongodb",
+  "main": "Login.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "zufeeducn"
+  ],
+  "author": "chenchenjn",
+  "license": "GNU",
+  "git repository":"https://github.com/chenchenjn/Login"
+}
